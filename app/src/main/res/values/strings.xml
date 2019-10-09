@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IPPT Calculator</string>
+
+    <string-array name="age">
+        <item> &lt; 22 </item>
+        <item> 22-24   </item>
+        <item> 25-27   </item>
+        <item> 28-30   </item>
+        <item> 31-33   </item>
+        <item> 34-36   </item>
+        <item> 37-39   </item>
+        <item> 40-42   </item>
+    </string-array>
+    <string name="title_activity_score_page">scorePage</string>
+    <string name="title_activity_table_list">tableList</string>
+</resources>
